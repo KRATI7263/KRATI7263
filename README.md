@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif )
 <h1 align="center">Hi 👋, I'm Krati Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
